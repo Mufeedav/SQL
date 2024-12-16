@@ -1,0 +1,1 @@
+practicing various SQL commands
